@@ -1,3 +1,4 @@
+//Approach 1
 class Solution {
     public List<String> wordSubsets(String[] words1, String[] words2) {
         List<String> list=new ArrayList<>();
